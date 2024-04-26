@@ -1,0 +1,3 @@
+[submodule "themes/wordpress-brutal-theme"]
+	path = themes/wordpress-brutal-theme
+	url = https://github.com/YertleTurtleGit/wordpress-brutal-theme
